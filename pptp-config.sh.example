@@ -1,0 +1,7 @@
+vpnServer="vpn.server"
+vpnName="vpnname"
+user="username"
+pass="password"
+defaultRoute="192.168.1.1"
+
+
